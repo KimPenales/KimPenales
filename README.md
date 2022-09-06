@@ -5,7 +5,7 @@ I've always had a passion for learning. I like experimenting with new technologi
 - ⚡ Skills: **C#, HTML Basics, C++, and MySQL**, well at least I have four😂 and still learning
 - 🌱 Learning more about and studying: **Python, JavaScript, and more**
 - 💜 Interests: **Games 🎮, Music 🎵, Movies 🎬**
-- 👋🏻 And yes, feel free to get in touch!  
+- 👋🏻 And yes, I always ask question in stackoverflow! My goodness  
 
 <details>
   <summary>Here's a list of things I currently keep myself busy with</summary>
